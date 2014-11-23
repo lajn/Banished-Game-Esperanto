@@ -96,7 +96,7 @@ StringTable achievement
 		}
 		{
 			String _name = "OnewithNatureDesc";
-			String _text = "Atingu 400 civitanoj sen konstrui CRÔPS FÎÊLDS, ÔRCHÂRDS, ÔR PÂSTÛRÊS.";
+			String _text = "Atingu 400 civitanoj sen konstrui CRÔPS FÎÊLDS, ÔRCHÂRDS, au PÂSTÛRÊS.";
 		}
 		{
 			String _name = "Trader";
@@ -224,7 +224,7 @@ StringTable achievement
 		}
 		{
 			String _name = "ImmigrantsDesc";
-			String _text = "ÂLLÔW 200 nomadoj ÎNTÔ  unupoa urbeto.";
+			String _text = "ÂLLÔW 200 nomadoj al  unupoa urbeto.";
 		}
 		{
 			String _name = "Smilesallaround";
@@ -232,7 +232,7 @@ StringTable achievement
 		}
 		{
 			String _name = "SmilesallaroundDesc";
-			String _text = "Konservu HÎGH HÂPPÎNÊSS dum 10 jaroj en  urbeto kun pli ol 100 civitanoj.";
+			String _text = "Konservu HÎGH felico dum 10 jaroj en  urbeto kun pli ol 100 civitanoj.";
 		}
 		{
 			String _name = "Healthy";
@@ -272,7 +272,7 @@ StringTable achievement
 		}
 		{
 			String _name = "MasterBuilderDesc";
-			String _text = "Konstru  urbeto kun 3 CHÛRCHÊS, 5 BÔÂRDÎNG HÔÛSÊS, 4 MÂRKÊTS, 5 HÔSPÎTÂLS, 2 negocoficoj, 6 TÂVÊRNS, kaj  urbeto HÂLL.";
+			String _text = "Konstru  urbeto kun 3 CHÛRCHÊS, 5 BÔÂRDÎNG HÔÛSÊS, 4 MÂRKÊTS, 5 HÔSPÎTÂLS, 2 negocoficoj, 6 Tavernoj, kaj  urbeto HÂLL.";
 		}
 		{
 			String _name = "Established";
@@ -616,11 +616,11 @@ StringTable events
 		}
 		{
 			String _name = "Event13";
-			String _text = "@0 @1:  MÊRCHÂNT havas ÂRRÎVÊD ÂT  negocofico.";
+			String _text = "@0 @1:  MÊRCHÂNT havas ÂRRÎVÊD en  negocofico.";
 		}
 		{
 			String _name = "Event14";
-			String _text = "@0 @1: nomadoj HÂVÊ ÂRRÎVÊD ÂT la urbeto HÂLL.";
+			String _text = "@0 @1: nomadoj havas ÂRRÎVÊD en la urbeto HÂLL.";
 		}
 		{
 			String _name = "Event15";
@@ -656,11 +656,11 @@ StringTable events
 		}
 		{
 			String _name = "Event23";
-			String _text = "@0 @1: STÔRÂGÊ dum PRÔDÛCÊD varoj ÎS NÊÂR CÂPÂCÎTY!";
+			String _text = "@0 @1: STÔRÂGÊ dum PRÔDÛCÊD varoj ÎS proksime CÂPÂCÎTY!";
 		}
 		{
 			String _name = "Event24";
-			String _text = "@0 @1: STÔRÂGÊ dum LÔGS, STÔNÊ, kaj ÎRÔN ÎS NÊÂR CÂPÂCÎTY!";
+			String _text = "@0 @1: STÔRÂGÊ dum LÔGS, STÔNÊ, kaj ÎRÔN ÎS proksime CÂPÂCÎTY!";
 		}
 		{
 			String _name = "Event25";
@@ -684,7 +684,7 @@ StringTable events
 		}
 		{
 			String _name = "Event30";
-			String _text = " TÔRNÂDÔ havas TÔÛCHÊD DÔWN NÊÂR la urbeto!";
+			String _text = " TÔRNÂDÔ havas TÔÛCHÊD DÔWN proksime la urbeto!";
 		}
 		{
 			String _name = "Event31";
@@ -699,7 +699,7 @@ StringTable gameDialogs
 	[ 
 		{
 			String _name = "NomadsNone";
-			String _text = "Jen ne nomadoj petas civitanecon ÂT THÎS TÎMÊ.";
+			String _text = "Jen ne nomadoj petas civitanecon en THÎS TÎMÊ.";
 		}
 		{
 			String _name = "NomadsRequest";
@@ -743,7 +743,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "DestroyReclaimTip";
-			String _text = "STÔP la RÊMÔVÂL de RÊSÔÛRCÊ kaj STÔP DÊSTRÔYÎNG THÎS konstrui.";
+			String _text = "STÔP la RÊMÔVÂL de Rimedo kaj STÔP DÊSTRÔYÎNG THÎS konstrui.";
 		}
 		{
 			String _name = "DestroyRebuild";
@@ -851,7 +851,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "PauseBuildTip";
-			String _text = "PÂÛSÊ ÔR ÛNPÂÛSÊ CÔLLÊCTÎÔN de MÂTÊRÎÂLS kaj CÔNSTRÛCTÎÔN da THÎS konstrui";
+			String _text = "PÂÛSÊ au ÛNPÂÛSÊ CÔLLÊCTÎÔN de materialoj kaj CÔNSTRÛCTÎÔN da THÎS konstrui";
 		}
 		{
 			String _name = "CloseTip";
@@ -867,7 +867,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "ProductionTip";
-			String _text = "SHÔW ÔR HÎDÊ PRÔDÛCTÎÔN STÂTÎSTÎCS ÂT THÎS LÔCÂTÎÔN.";
+			String _text = "SHÔW au HÎDÊ PRÔDÛCTÎÔN STÂTÎSTÎCS en THÎS LÔCÂTÎÔN.";
 		}
 		{
 			String _name = "ClearAreaTip";
@@ -875,7 +875,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "ResourceTip";
-			String _text = "RÊSÔÛRCÊ ke NÊÊDS TÔ BÊ GÂTHÊRÊD BÊFÔRÊ CÔNSTRÛCTÎÔN CÂN BÊGÎN.";
+			String _text = "Rimedo ke NÊÊDS TÔ BÊ GÂTHÊRÊD BÊFÔRÊ CÔNSTRÛCTÎÔN CÂN BÊGÎN.";
 		}
 		{
 			String _name = "LaborTip";
@@ -919,7 +919,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "AgriDescription";
-			String _text = "ÂCQÛÎRÊD SÊÊDS kaj brutaro";
+			String _text = "ÂCQÛÎRÊD semoj kaj brutaro";
 		}
 		{
 			String _name = "Order";
@@ -943,7 +943,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "PurchasePriorityTip";
-			String _text = "MÔVÊ la ÎTÊM TÔ PÛRCHÂSÊ ÛP ÔR DÔWN en PRÎÔRÎTY.";
+			String _text = "MÔVÊ la ero TÔ PÛRCHÂSÊ ÛP au DÔWN en PRÎÔRÎTY.";
 		}
 		{
 			String _name = "PurchaseCountTip";
@@ -959,7 +959,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "InventoryItem";
-			String _text = "ÎTÊM";
+			String _text = "ero";
 		}
 		{
 			String _name = "InventoryStored";
@@ -971,15 +971,15 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "EnableWorkTip";
-			String _text = "ÊNÂBLÊ ÔR DÎSÂBLÊ PRÔDÛCTÎÔN ÂT THÎS LÔCÂTÎÔN.";
+			String _text = "aktivigi au malaktivigi PRÔDÛCTÎÔN en THÎS LÔCÂTÎÔN.";
 		}
 		{
 			String _name = "WorkerCountTip";
-			String _text = "la NÛMBÊR da civitanoj WÔRKÎNG ÂT THÎS LÔCÂTÎÔN. CLÎCK TÔ SÊLÊCT kaj CYCLÊ THRÔÛGH la laboristoj.";
+			String _text = "la NÛMBÊR da civitanoj WÔRKÎNG en THÎS LÔCÂTÎÔN. CLÎCK TÔ SÊLÊCT kaj CYCLÊ THRÔÛGH la laboristoj.";
 		}
 		{
 			String _name = "EnableSchoolTip";
-			String _text = "ÊNÂBLÊ ÔR DÎSÂBLÊ ÊDÛCÂTÎÔN ÂT THÎS SCHÔÔL.";
+			String _text = "aktivigi au malaktivigi ÊDÛCÂTÎÔN en THÎS SCHÔÔL.";
 		}
 		{
 			String _name = "ProfessionCountTip";
@@ -999,7 +999,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "EnablePriestTip";
-			String _text = "ÊNÂBLÊ ÔR DÎSÂBLÊ Uzu da THÎS CHÂPÊL.";
+			String _text = "aktivigi au malaktivigi Uzu da THÎS CHÂPÊL.";
 		}
 		{
 			String _name = "ForesterCut";
@@ -1011,11 +1011,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "ForesterCutTip";
-			String _text = "ÊNÂBLÊ ÔR DÎSÂBLÊ la CÛTTÎNG DÔWN NÊÂRBY MÂTÛRÊ TRÊÊS.";
+			String _text = "aktivigi au malaktivigi la CÛTTÎNG DÔWN NÊÂRBY MÂTÛRÊ TRÊÊS.";
 		}
 		{
 			String _name = "ForesterPlantTip";
-			String _text = "ÊNÂBLÊ ÔR DÎSÂBLÊ la PLÂNTÎNG da NÊW SÂPLÎNGS.";
+			String _text = "aktivigi au malaktivigi la PLÂNTÎNG da novaj SÂPLÎNGS.";
 		}
 		{
 			String _name = "CropFieldCutTip";
@@ -1023,7 +1023,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "CropFieldAutoTip";
-			String _text = "ÊNÂBLÊ ÔR DÎSÂBLÊ ÂÛTÔMÂTÎC PLÂNTÎNG kaj HÂRVÊSTÎNG ÂT THÎS LÔCÂTÎÔN.";
+			String _text = "aktivigi au malaktivigi ÂÛTÔMÂTÎC PLÂNTÎNG kaj HÂRVÊSTÎNG en THÎS LÔCÂTÎÔN.";
 		}
 		{
 			String _name = "CropFieldSelectTip";
@@ -1055,7 +1055,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "ProductionCurrent";
-			String _text = "CÛRRÊNT";
+			String _text = "nunatempa";
 		}
 		{
 			String _name = "ProductionUsed";
@@ -1075,11 +1075,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "Limit";
-			String _text = "LÎMÎT";
+			String _text = "limo";
 		}
 		{
 			String _name = "FuelLimit";
-			String _text = "FÛÊL LÎMÎT";
+			String _text = "FÛÊL limo";
 		}
 		{
 			String _name = "FuelLimitShort";
@@ -1087,11 +1087,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "FuelLimitTip";
-			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD FÛÊL. ÔNCÊ THÎS LÎMÎT ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
+			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD FÛÊL. ÔNCÊ THÎS limo ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
 		}
 		{
 			String _name = "LogLimit";
-			String _text = "LÔG LÎMÎT";
+			String _text = "LÔG limo";
 		}
 		{
 			String _name = "LogLimitShort";
@@ -1099,11 +1099,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "LogLimitTip";
-			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD LÔGS. ÔNCÊ THÎS LÎMÎT ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
+			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD LÔGS. ÔNCÊ THÎS limo ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
 		}
 		{
 			String _name = "HerbLimit";
-			String _text = "HÊRB LÎMÎT";
+			String _text = "HÊRB limo";
 		}
 		{
 			String _name = "HerbLimitShort";
@@ -1111,11 +1111,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "HerbLimitTip";
-			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD HÊRBS. ÔNCÊ THÎS LÎMÎT ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
+			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD HÊRBS. ÔNCÊ THÎS limo ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
 		}
 		{
 			String _name = "ToolLimit";
-			String _text = "TÔÔL LÎMÎT";
+			String _text = "TÔÔL limo";
 		}
 		{
 			String _name = "ToolLimitShort";
@@ -1123,11 +1123,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "ToolLimitTip";
-			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD iloj. ÔNCÊ THÎS LÎMÎT ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
+			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD iloj. ÔNCÊ THÎS limo ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
 		}
 		{
 			String _name = "IronLimit";
-			String _text = "ÎRÔN LÎMÎT";
+			String _text = "ÎRÔN limo";
 		}
 		{
 			String _name = "IronLimitShort";
@@ -1135,11 +1135,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "IronLimitTip";
-			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD ÎRÔN. ÔNCÊ THÎS LÎMÎT ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
+			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD ÎRÔN. ÔNCÊ THÎS limo ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
 		}
 		{
 			String _name = "StoneLimit";
-			String _text = "STÔNÊ LÎMÎT";
+			String _text = "STÔNÊ limo";
 		}
 		{
 			String _name = "StoneLimitShort";
@@ -1147,11 +1147,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "StoneLimitTip";
-			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD STÔNÊ. ÔNCÊ THÎS LÎMÎT ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
+			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD STÔNÊ. ÔNCÊ THÎS limo ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
 		}
 		{
 			String _name = "FoodLimit";
-			String _text = "FÔÔD LÎMÎT";
+			String _text = "FÔÔD limo";
 		}
 		{
 			String _name = "FoodLimitShort";
@@ -1159,11 +1159,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "FoodLimitTip";
-			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD FÔÔD. ÔNCÊ THÎS LÎMÎT ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
+			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD FÔÔD. ÔNCÊ THÎS limo ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
 		}
 		{
 			String _name = "ClothesLimit";
-			String _text = "CLÔTHÊS LÎMÎT";
+			String _text = "CLÔTHÊS limo";
 		}
 		{
 			String _name = "ClothesLimitShort";
@@ -1171,11 +1171,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "ClothesLimitTip";
-			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD CLÔTHÎNG. ÔNCÊ THÎS LÎMÎT ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
+			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD CLÔTHÎNG. ÔNCÊ THÎS limo ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
 		}
 		{
 			String _name = "TextileLimit";
-			String _text = "TÊXTÎLÊ LÎMÎT";
+			String _text = "TÊXTÎLÊ limo";
 		}
 		{
 			String _name = "TextileLimitShort";
@@ -1183,11 +1183,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "TextileLimitTip";
-			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD TÊXTÎLÊS. ÔNCÊ THÎS LÎMÎT ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
+			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD TÊXTÎLÊS. ÔNCÊ THÎS limo ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
 		}
 		{
 			String _name = "AlcoholLimit";
-			String _text = "ÂLCÔHÔL LÎMÎT";
+			String _text = "ÂLCÔHÔL limo";
 		}
 		{
 			String _name = "AlcoholLimitShort";
@@ -1195,11 +1195,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "AlcoholLimitTip";
-			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD ÂLCÔHÔL. ÔNCÊ THÎS LÎMÎT ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
+			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD ÂLCÔHÔL. ÔNCÊ THÎS limo ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
 		}
 		{
 			String _name = "CoalLimit";
-			String _text = "CÔÂL LÎMÎT";
+			String _text = "CÔÂL limo";
 		}
 		{
 			String _name = "CoalLimitShort";
@@ -1207,7 +1207,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "CoalLimitTip";
-			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD CÔÂL. ÔNCÊ THÎS LÎMÎT ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
+			String _text = "CÔNTRÔLS la ÂMÔÛNT da STÔRÊD CÔÂL. ÔNCÊ THÎS limo ÎS RÊÂCHÊD PRÔDÛCTÎÔN WÎLL CÊÂSÊ.";
 		}
 		{
 			String _name = "VegetableLimitShort";
@@ -1215,7 +1215,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "FruitLimitShort";
-			String _text = "FRÛÎTS";
+			String _text = "fruktoj";
 		}
 		{
 			String _name = "MeatLimitShort";
@@ -1235,7 +1235,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "OrchardAutoTip";
-			String _text = "ÊNÂBLÊ ÔR DÎSÂBLÊ ÂÛTÔMÂTÎC HÂRVÊSTÎNG ÂT THÎS LÔCÂTÎÔN.";
+			String _text = "aktivigi au malaktivigi ÂÛTÔMÂTÎC HÂRVÊSTÎNG en THÎS LÔCÂTÎÔN.";
 		}
 		{
 			String _name = "OrchardSelectTip";
@@ -1263,11 +1263,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "PastureSplitTip";
-			String _text = "MÔVÊ HÂLF la ÂNÎMÂLS ÎNTÔ ÂNÔTHÊR PÂSTÛRÊ. RÊQÛÎRÊS ÂNÔTHÊR PÂSTÛRÊ CÂPÂBLÊ da HÔLDÎNG la ÂNÎMÂLS.";
+			String _text = "MÔVÊ HÂLF la ÂNÎMÂLS al ÂNÔTHÊR PÂSTÛRÊ. RÊQÛÎRÊS ÂNÔTHÊR PÂSTÛRÊ CÂPÂBLÊ da HÔLDÎNG la ÂNÎMÂLS.";
 		}
 		{
 			String _name = "PastureSelectTip";
-			String _text = "SÊLÊCT la ÂNÎMÂL ke WÎLL BÊ KÊPT en THÎS PÂSTÛRÊ. THÎS CÂN ÔNLY BÊ DÔNÊ WHÊN la PÂSTÛRÊ ÎS ÊMPTY.";
+			String _text = "SÊLÊCT la ÂNÎMÂL ke WÎLL BÊ KÊPT en THÎS PÂSTÛRÊ. THÎS CÂN ÔNLY BÊ DÔNÊ Kiem la PÂSTÛRÊ ÎS ÊMPTY.";
 		}
 		{
 			String _name = "HerdSize";
@@ -1287,7 +1287,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "DismissTip";
-			String _text = "DÎSMÎSS la MÊRCHÂNT ÎF THÊY HÂVÊ NÔTHÎNG YÔÛ WÎSH TÔ BÛY.";
+			String _text = "DÎSMÎSS la MÊRCHÂNT ÎF THÊY havas NÔTHÎNG YÔÛ WÎSH TÔ BÛY.";
 		}
 		{
 			String _name = "Total";
@@ -1295,7 +1295,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "DesiredTradeTip";
-			String _text = "DÊSÎRÊD NÛMBÊR da ÎTÊMS TÔ STÔRÊ ÂT la negocofico.";
+			String _text = "DÊSÎRÊD NÛMBÊR da ÎTÊMS TÔ STÔRÊ en la negocofico.";
 		}
 		{
 			String _name = "TradeStoredTip";
@@ -1303,11 +1303,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "TradeSellValueTip";
-			String _text = "VÂLÛÊ ke la ÎTÊM WÎLL BÊ SÔLD ÂT.";
+			String _text = "VÂLÛÊ ke la ero WÎLL BÊ SÔLD en.";
 		}
 		{
 			String _name = "TradeBuyValueTip";
-			String _text = "CÔST da la ÎTÊM.";
+			String _text = "CÔST da la ero.";
 		}
 		{
 			String _name = "TradeCountTip";
@@ -1335,7 +1335,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "TradeItem";
-			String _text = "ÎTÊM";
+			String _text = "ero";
 		}
 		{
 			String _name = "TradeCost";
@@ -1347,7 +1347,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "WeatherTip";
-			String _text = "CÛRRÊNT WÊÂTHÊR kaj TÊMPÊRÂTÛRÊ.";
+			String _text = "nunatempa WÊÂTHÊR kaj TÊMPÊRÂTÛRÊ.";
 		}
 		{
 			String _name = "PopulationTip";
@@ -1395,7 +1395,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "SeasonTip";
-			String _text = "CÛRRÊNT SÊÂSÔN kaj NÛMBÊR da jaroj la urbeto havas ÊXÎSTÊD.";
+			String _text = "nunatempa SÊÂSÔN kaj NÛMBÊR da jaroj la urbeto havas ÊXÎSTÊD.";
 		}
 		{
 			String _name = "HealthTip";
@@ -1403,7 +1403,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "HappyTip";
-			String _text = "ÂVÊRÂGÊ HÂPPÎNÊSS da civitanoj.";
+			String _text = "ÂVÊRÂGÊ felico da civitanoj.";
 		}
 		{
 			String _name = "StatusHomeTip";
@@ -1431,7 +1431,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "StatusHome2Tip";
-			String _text = "THÎS civitano DÔÊSN'T HÂVÊ  HÔMÊ!";
+			String _text = "THÎS civitano DÔÊSN'T havas  HÔMÊ!";
 		}
 		{
 			String _name = "StatusFood2Tip";
@@ -1495,7 +1495,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "CitizenHappy";
-			String _text = "HÂPPÎNÊSS";
+			String _text = "felico";
 		}
 		{
 			String _name = "GotoProfessionTip";
@@ -1511,11 +1511,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "Product";
-			String _text = "PRÔDÛCT";
+			String _text = "produkto";
 		}
 		{
 			String _name = "ProductTip";
-			String _text = "CÔNTRÔLS la TYPÊ da ÎTÊM THÎS konstrui PRÔDÛCÊS.";
+			String _text = "CÔNTRÔLS la TYPÊ da ero THÎS konstrui PRÔDÛCÊS.";
 		}
 		{
 			String _name = "Stats";
@@ -1595,7 +1595,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "Happiness";
-			String _text = "HÂPPÎNÊSS";
+			String _text = "felico";
 		}
 		{
 			String _name = "Families";
@@ -1619,19 +1619,19 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "BuildingStatusDisabledTip";
-			String _text = "WÔRK ÎS DÎSÂBLÊD ÂT THÎS LÔCÂTÎÔN.";
+			String _text = "WÔRK ÎS DÎSÂBLÊD en THÎS LÔCÂTÎÔN.";
 		}
 		{
 			String _name = "BuildingStatusLimitTip";
-			String _text = "la PRÔDÛCTÎÔN LÎMÎT dum THÎS RÊSÔÛRCÊ havas BÊÊN RÊÂCHÊD";
+			String _text = "la PRÔDÛCTÎÔN limo dum THÎS Rimedo havas BÊÊN RÊÂCHÊD";
 		}
 		{
 			String _name = "BuildingStatusNoWorkTip";
-			String _text = "la MÂTÊRÎÂLS RÊQÛÎRÊD TÔ PÊRFÔRM WÔRK ÂRÊ NÔT ÂVÂÎLÂBLÊ.";
+			String _text = "la materialoj RÊQÛÎRÊD TÔ PÊRFÔRM WÔRK ÂRÊ NÔT ÂVÂÎLÂBLÊ.";
 		}
 		{
 			String _name = "BuildingStatusNoWorkersTip";
-			String _text = "Ne civitanoj ÂRÊ ÂVÂÎLÂBLÊ TÔ WÔRK ÂT THÎS LÔCÂTÎÔN.";
+			String _text = "Ne civitanoj ÂRÊ ÂVÂÎLÂBLÊ TÔ WÔRK en THÎS LÔCÂTÎÔN.";
 		}
 		{
 			String _name = "BuildingStatusDestroyTip";
@@ -1639,7 +1639,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "ThisYear";
-			String _text = "CÛRRÊNT SÊÂSÔN";
+			String _text = "nunatempa SÊÂSÔN";
 		}
 		{
 			String _name = "PrevYear";
@@ -1659,7 +1659,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "EventNotifyStorageTip";
-			String _text = "TÔGGLÊ PÔPÛP NÔTÎFÎCÂTÎÔNS da RÊSÔÛRCÊ kaj STÔRÂGÊ VÂLÛÊS.";
+			String _text = "TÔGGLÊ PÔPÛP NÔTÎFÎCÂTÎÔNS da Rimedo kaj STÔRÂGÊ VÂLÛÊS.";
 		}
 		{
 			String _name = "EventNotifyTownTip";
@@ -1758,7 +1758,7 @@ StringTable gameKeys
 		}
 		{
 			String _name = "Structure_Type";
-			String _text = "CHÂNGÊ strukturo MÔDÊL";
+			String _text = "sangi strukturo MÔDÊL";
 		}
 		{
 			String _name = "Toggle_PathMethod";
@@ -1798,7 +1798,7 @@ StringTable gameKeys
 		}
 		{
 			String _name = "Toolbar7";
-			String _text = "RÊSÔÛRCÊ PRÔDÛCTÎÔN";
+			String _text = "Rimedo PRÔDÛCTÎÔN";
 		}
 		{
 			String _name = "Toolbar8";
@@ -1939,7 +1939,7 @@ StringTable graphKeys
 		}
 		{
 			String _name = "Record6";
-			String _text = "HÂPPÎNÊSS";
+			String _text = "felico";
 		}
 		{
 			String _name = "Record7";
@@ -2841,7 +2841,7 @@ StringTable loadingDetails
 		}
 		{
 			String _name = "Loading22";
-			String _text = "(PLÂNTÎNG Pomo SÊÊDS)";
+			String _text = "(PLÂNTÎNG Pomo semoj)";
 		}
 		{
 			String _name = "Loading23";
@@ -2853,7 +2853,7 @@ StringTable loadingDetails
 		}
 		{
 			String _name = "Loading25";
-			String _text = "(RÊMÔVÎNG PÔÎSÔNÔÛS MÛSHRÔÔMS)";
+			String _text = "(RÊMÔVÎNG venena MÛSHRÔÔMS)";
 		}
 		{
 			String _name = "Loading26";
@@ -2932,7 +2932,7 @@ StringTable mainMenu
 		}
 		{
 			String _name = "NewGame";
-			String _text = "NÊW";
+			String _text = "novaj";
 		}
 		{
 			String _name = "LoadGame";
@@ -2992,7 +2992,7 @@ StringTable mainMenu
 		}
 		{
 			String _name = "ModLoaded";
-			String _text = "ÊNÂBLÊ";
+			String _text = "aktivigi";
 		}
 		{
 			String _name = "ModOrder";
@@ -3032,7 +3032,7 @@ StringTable mainMenu
 		}
 		{
 			String _name = "ModLoadedTip";
-			String _text = "ÊNÂBLÊ ÔR DÎSÂBLÊ la MÔD.";
+			String _text = "aktivigi au malaktivigi la MÔD.";
 		}
 		{
 			String _name = "ModCreatedBy";
@@ -3044,12 +3044,12 @@ StringTable mainMenu
 		}
 		{
 			String _name = "ModMissing";
-			String _text = "la FÔLLÔWÎNG MÔD CÂN NÔT BÊ FÔÛND ÔR CÂNNÔT BÊ LÔÂDÊD.
+			String _text = "la FÔLLÔWÎNG MÔD CÂN NÔT BÊ FÔÛND au CÂNNÔT BÊ LÔÂDÊD.
 
 @0 [@1]
 SÂVÊD kun VÊRSÎÔN @2
 
-LÔÂDÎNG THÎS SÂVÊ ludo MÂY HÂVÊ ÛNÊXPÊCTÊD RÊSÛLTS ÔR CRÂSHÊS. DÔ YÔÛ STÎLL WÂNT TÔ LÔÂD la SÂVÊ ludo?";
+LÔÂDÎNG THÎS SÂVÊ ludo MÂY havas ÛNÊXPÊCTÊD RÊSÛLTS au CRÂSHÊS. DÔ YÔÛ STÎLL WÂNT TÔ LÔÂD la SÂVÊ ludo?";
 		}
 		{
 			String _name = "ModOutOfDate";
@@ -3058,25 +3058,25 @@ LÔÂDÎNG THÎS SÂVÊ ludo MÂY HÂVÊ ÛNÊXPÊCTÊD RÊSÛLTS ÔR CRÂSHÊS. DÔ YÔÛ STÎLL WÂNT
 @0 [@1]
 SÂVÊD kun VÊRSÎÔN @2
 
-LÔÂDÎNG THÎS SÂVÊ ludo MÂY HÂVÊ ÛNÊXPÊCTÊD RÊSÛLTS ÔR CRÂSHÊS. DÔ YÔÛ STÎLL WÂNT TÔ LÔÂD la SÂVÊ ludo?";
+LÔÂDÎNG THÎS SÂVÊ ludo MÂY havas ÛNÊXPÊCTÊD RÊSÛLTS au CRÂSHÊS. DÔ YÔÛ STÎLL WÂNT TÔ LÔÂD la SÂVÊ ludo?";
 		}
 		{
 			String _name = "ModDifferentVersion";
-			String _text = "la FÔLLÔWÎNG MÔD havas HÂD  VÊRSÎÔN CHÂNGÊ.
+			String _text = "la FÔLLÔWÎNG MÔD havas HÂD  VÊRSÎÔN sangi.
 
 @0 [@1]
 NSÂVÊD kun VÊRSÎÔN @2
 
-WHÎLÊ la ÂÛTHÔR MÂY HÂVÊ JÛST SÎMPLY ÛPDÂTÊD la MÔD kun BÛG FÎXÊS ÔR NÊW FÊÂTÛRÊS, LÔÂDÎNG THÎS SÂVÊ ludo MÂY STÎLL HÂVÊ ÛNÊXPÊCTÊD RÊSÛLTS ÔR CRÂSHÊS. DÔ YÔÛ STÎLL WÂNT TÔ LÔÂD la SÂVÊ ludo?";
+WHÎLÊ la ÂÛTHÔR MÂY havas JÛST SÎMPLY ÛPDÂTÊD la MÔD kun BÛG FÎXÊS au novaj FÊÂTÛRÊS, LÔÂDÎNG THÎS SÂVÊ ludo MÂY STÎLL havas ÛNÊXPÊCTÊD RÊSÛLTS au CRÂSHÊS. DÔ YÔÛ STÎLL WÂNT TÔ LÔÂD la SÂVÊ ludo?";
 		}
 		{
 			String _name = "ModChanged";
-			String _text = "la FÔLLÔWÎNG MÔD ÎS diferencaj el WHÊN la ludo Estis SÂVÊD.
+			String _text = "la FÔLLÔWÎNG MÔD ÎS diferencaj el Kiem la ludo Estis SÂVÊD.
 
 @0 [@1]
 SÂVÊD kun VÊRSÎÔN @2
 
-ÎT'S PÔSSÎBLÊ la ÂÛTHÔR ÛPDÂTÊD la MÔD sen CHÂNGÎNG la VÊRSÎÔN NÛMBÊR. ÔR,  MÔD kun la SÂMÊ Nomo ÔN DÎSK havas ÔVÊRWRÎTTÊN la MÔD. LÔÂDÎNG THÎS SÂVÊ ludo MÂY HÂVÊ ÛNÊXPÊCTÊD RÊSÛLTS ÔR CRÂSHÊS. DÔ YÔÛ STÎLL WÂNT TÔ LÔÂD la SÂVÊ ludo?";
+ÎT'S PÔSSÎBLÊ la ÂÛTHÔR ÛPDÂTÊD la MÔD sen CHÂNGÎNG la VÊRSÎÔN NÛMBÊR. au,  MÔD kun la SÂMÊ Nomo ÔN DÎSK havas ÔVÊRWRÎTTÊN la MÔD. LÔÂDÎNG THÎS SÂVÊ ludo MÂY havas ÛNÊXPÊCTÊD RÊSÛLTS au CRÂSHÊS. DÔ YÔÛ STÎLL WÂNT TÔ LÔÂD la SÂVÊ ludo?";
 		}
 		{
 			String _name = "ReloadMenu";
@@ -3088,7 +3088,7 @@ DÔ YÔÛ WÂNT TÔ Apliki CHÂNGÊS kaj RÊLÔÂD NÔW?";
 			String _name = "ReloadGame";
 			String _text = "CHÂNGÊS TÔ la LÔÂDÊD MÔDS RÊQÛÎRÊ la ludo TÔ BÊ RÊLÔÂDÊD.
 
-RÊLÔÂDÎNG kun diferencaj MÔDS en  ludo ÂLRÊÂDY en PRÔGRÊSS MÂY HÂVÊ ÛNDÊSÎRÂBLÊ ÊFFÊCTS SÛCH ÂS ÛNÊXPÊCTÊD BÊHÂVÎÔR ÔR CRÂSHÊS.
+RÊLÔÂDÎNG kun diferencaj MÔDS en  ludo ÂLRÊÂDY en PRÔGRÊSS MÂY havas ÛNDÊSÎRÂBLÊ ÊFFÊCTS SÛCH ÂS ÛNÊXPÊCTÊD BÊHÂVÎÔR au CRÂSHÊS.
 
 DÔ YÔÛ WÂNT TÔ Apliki CHÂNGÊS kaj RÊLÔÂD NÔW?";
 		}
@@ -3132,11 +3132,11 @@ la RÊSÔÛRCÊS el la MÔD HÎGHÊST en la LÎST WÎLL BÊ LÔÂDÊD.";
 		}
 		{
 			String _name = "NewNameTip";
-			String _text = "ÂÛTÔ GÊNÊRÂTÊ  NÊW urbeto Nomo.";
+			String _text = "ÂÛTÔ GÊNÊRÂTÊ  novaj urbeto Nomo.";
 		}
 		{
 			String _name = "NewSeedTip";
-			String _text = "GÊNÊRÂTÊ  NÊW semo dum MÂP GÊNÊRÂTÎÔN.";
+			String _text = "GÊNÊRÂTÊ  novaj semo dum MÂP GÊNÊRÂTÎÔN.";
 		}
 		{
 			String _name = "StartCondition";
@@ -3220,7 +3220,7 @@ la RÊSÔÛRCÊS el la MÔD HÎGHÊST en la LÎST WÎLL BÊ LÔÂDÊD.";
 		}
 		{
 			String _name = "NewGameTip";
-			String _text = "BÊGÎN  NÊW ludo";
+			String _text = "BÊGÎN  novaj ludo";
 		}
 		{
 			String _name = "LoadGameTip";
@@ -3228,7 +3228,7 @@ la RÊSÔÛRCÊS el la MÔD HÎGHÊST en la LÎST WÎLL BÊ LÔÂDÊD.";
 		}
 		{
 			String _name = "SaveGameTip";
-			String _text = "SÂVÊ la CÛRRÊNT ludo";
+			String _text = "SÂVÊ la nunatempa ludo";
 		}
 		{
 			String _name = "OptionsTip";
@@ -3244,7 +3244,7 @@ la RÊSÔÛRCÊS el la MÔD HÎGHÊST en la LÎST WÎLL BÊ LÔÂDÊD.";
 		}
 		{
 			String _name = "ResumeGameTip";
-			String _text = "RÊSÛMÊ la CÛRRÊNT ludo";
+			String _text = "RÊSÛMÊ la nunatempa ludo";
 		}
 		{
 			String _name = "TutorialTip";
@@ -3252,7 +3252,7 @@ la RÊSÔÛRCÊS el la MÔD HÎGHÊST en la LÎST WÎLL BÊ LÔÂDÊD.";
 		}
 		{
 			String _name = "AchievementTip";
-			String _text = "SHÔW ÂCHÎÊVÊMÊNTS kaj GÔÂLS ke HÂVÊ BÊ BÊÊN MÊT.";
+			String _text = "SHÔW ÂCHÎÊVÊMÊNTS kaj GÔÂLS ke havas BÊ BÊÊN MÊT.";
 		}
 		{
 			String _name = "ModTip";
@@ -3264,7 +3264,7 @@ la RÊSÔÛRCÊS el la MÔD HÎGHÊST en la LÎST WÎLL BÊ LÔÂDÊD.";
 		}
 		{
 			String _name = "ScenarioTip";
-			String _text = "BÊGÎN  NÊW ludo kun SÊT STÂRTÎNG CÔNDÎTÎÔNS kaj GÔÂLS";
+			String _text = "BÊGÎN  novaj ludo kun SÊT STÂRTÎNG CÔNDÎTÎÔNS kaj GÔÂLS";
 		}
 		{
 			String _name = "GoalTip";
@@ -3329,7 +3329,7 @@ la RÊSÔÛRCÊS el la MÔD HÎGHÊST en la LÎST WÎLL BÊ LÔÂDÊD.";
 		}
 		{
 			String _name = "GameUseEdgeScroll";
-			String _text = "ÊNÂBLÊ ÊDGÊ SCRÔLLÎNG";
+			String _text = "aktivigi ÊDGÊ SCRÔLLÎNG";
 		}
 		{
 			String _name = "GameShowCelsius";
@@ -3345,7 +3345,7 @@ la RÊSÔÛRCÊS el la MÔD HÎGHÊST en la LÎST WÎLL BÊ LÔÂDÊD.";
 		}
 		{
 			String _name = "GameAutopause";
-			String _text = "PÂÛSÊ WHÊN NÔT FÔCÛSÊD";
+			String _text = "PÂÛSÊ Kiem NÔT FÔCÛSÊD";
 		}
 		{
 			String _name = "GameMouseClip";
@@ -3364,7 +3364,7 @@ StringTable merchant
 		}
 		{
 			String _name = "MerchantGoods";
-			String _text = "RÊSÔÛRCÊ MÊRCHÂNT";
+			String _text = "Rimedo MÊRCHÂNT";
 		}
 		{
 			String _name = "MerchantGeneral";
@@ -3442,7 +3442,7 @@ StringTable objects
 		}
 		{
 			String _name = "ChapelTip";
-			String _text = "PRÔVÎDÊS HÂPPÎNÊSS dum la DÊVÔÛT kaj  PLÂCÊ TÔ MÊÊT kaj WÔRSHÎP.";
+			String _text = "PRÔVÎDÊS felico dum la DÊVÔÛT kaj  PLÂCÊ TÔ MÊÊT kaj WÔRSHÎP.";
 		}
 		{
 			String _name = "BathHouse";
@@ -3454,15 +3454,15 @@ StringTable objects
 		}
 		{
 			String _name = "BathHouseTip";
-			String _text = "PRÔMÔTÊS CLÊÂNLÎNÊSS, GÔÔD HÊÂLTH, kaj HÂPPÎNÊSS.";
+			String _text = "PRÔMÔTÊS CLÊÂNLÎNÊSS, GÔÔD HÊÂLTH, kaj felico.";
 		}
 		{
 			String _name = "Tavern";
-			String _text = "TÂVÊRN";
+			String _text = "Taverno";
 		}
 		{
 			String _name = "TavernLwr";
-			String _text = "TÂVÊRN";
+			String _text = "Taverno";
 		}
 		{
 			String _name = "TavernTip";
@@ -3478,7 +3478,7 @@ StringTable objects
 		}
 		{
 			String _name = "CemeteryTip";
-			String _text = "PRÊVÊNTS civitanoj el BÊCÔMÎNG SÂD WHÊN THÊÎR ÊLDÊRS DÎÊ.";
+			String _text = "PRÊVÊNTS civitanoj el BÊCÔMÎNG SÂD Kiem THÊÎR ÊLDÊRS DÎÊ.";
 		}
 		{
 			String _name = "StorageCart";
@@ -3542,7 +3542,7 @@ StringTable objects
 		}
 		{
 			String _name = "CutterYardTip";
-			String _text = "ÛSÊD TÔ CHÔP LÔGS ÎNTÔ FÎRÊWÔÔD WHÎCH ÂRÊ THÊN ÛSÊD TÔ HÊÂT HÔMÊS en la Vintro.";
+			String _text = "ÛSÊD TÔ CHÔP LÔGS al FÎRÊWÔÔD WHÎCH ÂRÊ THÊN ÛSÊD TÔ HÊÂT HÔMÊS en la Vintro.";
 		}
 		{
 			String _name = "ForesterLodge";
@@ -3554,7 +3554,7 @@ StringTable objects
 		}
 		{
 			String _name = "ForesterLodgeTip";
-			String _text = "ÛSÊD TÔ DÊFÎNÊ ÂN ÂRÊÂ TÔ SÊLÊCTÎVÊLY CÛT DÔWN TRÊÊS kaj PLÂNT NÊW SÊÊDLÎNGS.";
+			String _text = "ÛSÊD TÔ DÊFÎNÊ ÂN ÂRÊÂ TÔ SÊLÊCTÎVÊLY CÛT DÔWN TRÊÊS kaj PLÂNT novaj SÊÊDLÎNGS.";
 		}
 		{
 			String _name = "FishermansDock";
@@ -3578,7 +3578,7 @@ StringTable objects
 		}
 		{
 			String _name = "ToolMakerTip";
-			String _text = "ÛSÊD TÔ CRÊÂTÊ NÊW iloj el WÔÔD kaj ÎRÔN.";
+			String _text = "ÛSÊD TÔ CRÊÂTÊ novaj iloj el WÔÔD kaj ÎRÔN.";
 		}
 		{
 			String _name = "HunterLodge";
@@ -3746,7 +3746,7 @@ StringTable objects
 		}
 		{
 			String _name = "StorageYardTip";
-			String _text = "ÛSÊD TÔ STÔRÊ RÂW MÂTÊRÎÂLS SÛCH ÂS LÔGS, FÎRÊWÔÔD, STÔNÊ, CÔÂL, kaj ÎRÔN.";
+			String _text = "ÛSÊD TÔ STÔRÊ RÂW materialoj SÛCH ÂS LÔGS, FÎRÊWÔÔD, STÔNÊ, CÔÂL, kaj ÎRÔN.";
 		}
 		{
 			String _name = "Pasture";
@@ -3874,11 +3874,11 @@ StringTable objects
 		}
 		{
 			String _name = "ClearPriority";
-			String _text = "ÎNCRÊÂSÊ PRÎÔRÎTY";
+			String _text = "pligrandigo PRÎÔRÎTY";
 		}
 		{
 			String _name = "ClearPriorityTip";
-			String _text = "ÎNCRÊÂSÊ la PRÎÔRÎTY da la WÔRK BÊÎNG DÔNÊ en ÂN ÂRÊÂ.";
+			String _text = "pligrandigo la PRÎÔRÎTY da la WÔRK BÊÎNG DÔNÊ en ÂN ÂRÊÂ.";
 		}
 		{
 			String _name = "ClearCancel";
@@ -3958,15 +3958,15 @@ StringTable objects
 		}
 		{
 			String _name = "ToolEventLogTip";
-			String _text = "SHÔWS  LÔG da ÊVÊNTS ke HÂVÊ ÔCCÛRRÊD.";
+			String _text = "SHÔWS  LÔG da ÊVÊNTS ke havas ÔCCÛRRÊD.";
 		}
 		{
 			String _name = "ToolLimit";
-			String _text = "RÊSÔÛRCÊ LÎMÎTS";
+			String _text = "Rimedo LÎMÎTS";
 		}
 		{
 			String _name = "ToolLimitTip";
-			String _text = "SHÔWS LÎMÎTS PLÂCÊD ÔN RÊSÔÛRCÊ PRÔDÛCTÎÔN.";
+			String _text = "SHÔWS LÎMÎTS PLÂCÊD ÔN Rimedo PRÔDÛCTÎÔN.";
 		}
 		{
 			String _name = "ToolTutorial";
@@ -4059,7 +4059,7 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionLaborerDeath";
-			String _text = "Havas mortis da  WÊÂK HÊÂRT.";
+			String _text = "Mortis pro malforta koro.";
 		}
 		{
 			String _name = "ProfessionBuilder";
@@ -4103,11 +4103,11 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionGathererTip";
-			String _text = "GÂTHÊRÊRS SÊÂRCH dum RÔÔTS kaj Beroj en la FÔRÊST.";
+			String _text = "GÂTHÊRÊRS serÄ‰i dum RÔÔTS kaj beroj en la FÔRÊST.";
 		}
 		{
 			String _name = "ProfessionGathererDeath";
-			String _text = "ÂTÊ SÔMÊ PÔÎSÔNÔÛS Beroj kaj mortis.";
+			String _text = "ÂTÊ SÔMÊ venenaj beroj kaj mortis.";
 		}
 		{
 			String _name = "ProfessionFisherman";
@@ -4119,7 +4119,7 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionFishermanDeath";
-			String _text = "Dronigata.";
+			String _text = "Dronigita.";
 		}
 		{
 			String _name = "ProfessionHunter";
@@ -4139,11 +4139,11 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionCutterTip";
-			String _text = "WÔÔDCÛTTÊRS CHÔP LÔGS ÎNTÔ FÎRÊWÔÔD.";
+			String _text = "WÔÔDCÛTTÊRS CHÔP LÔGS al FÎRÊWÔÔD.";
 		}
 		{
 			String _name = "ProfessionCutterDeath";
-			String _text = "Estis ÂCCÎDÊNTÂLLY mortigata kun ÂN ÂXÊ.";
+			String _text = "Estis ÂCCÎDÊNTÂLLY mortigita kun ÂN ÂXÊ.";
 		}
 		{
 			String _name = "ProfessionForester";
@@ -4151,11 +4151,11 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionForesterTip";
-			String _text = "FÔRÊSTÊRS PLÂNT NÊW SÂPLÎNGS kaj CÛT DÔWN MÂTÛRÊ TRÊÊS.";
+			String _text = "FÔRÊSTÊRS PLÂNT novaj SÂPLÎNGS kaj CÛT DÔWN MÂTÛRÊ TRÊÊS.";
 		}
 		{
 			String _name = "ProfessionForesterDeath";
-			String _text = "Estis mortigata BY  FÂLLÎNG TRÊÊ.";
+			String _text = "Estis mortigita BY  FÂLLÎNG TRÊÊ.";
 		}
 		{
 			String _name = "ProfessionToolMaker";
@@ -4163,11 +4163,11 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionToolMakerTip";
-			String _text = "BLÂCKSMÎTHS produktu NÊW iloj ÛSÎNG WÔÔD kaj ÎRÔN.";
+			String _text = "BLÂCKSMÎTHS produktas novaj iloj ÛSÎNG WÔÔD kaj ÎRÔN.";
 		}
 		{
 			String _name = "ProfessionToolMakerDeath";
-			String _text = "Mortis post estis brulata en la forÄejo.";
+			String _text = "Mortis post estis brulita en la forÄejo.";
 		}
 		{
 			String _name = "ProfessionHerbalist";
@@ -4179,15 +4179,15 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionHerbalistDeath";
-			String _text = "ÂTÊ SÔMÊ PÔÎSÔNÔÛS MÛSHRÔÔMS kaj mortis.";
+			String _text = "ÂTÊ SÔMÊ venena MÛSHRÔÔMS kaj mortis.";
 		}
 		{
 			String _name = "ProfessionBrewer";
-			String _text = "BRÊWÊR";
+			String _text = "Bierfaristo";
 		}
 		{
 			String _name = "ProfessionBrewerTip";
-			String _text = "BRÊWÊRS RÛN TÂVÊRNS kaj BRÊW ÂLCÔHÔL.";
+			String _text = "BRÊWÊRS RÛN Tavernoj kaj BRÊW ÂLCÔHÔL.";
 		}
 		{
 			String _name = "ProfessionBrewerDeath";
@@ -4211,7 +4211,7 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionVendorTip";
-			String _text = "VÊNDÔRS CÔLLÊCT kaj DÎSTRÎBÛTÊ varoj ÂT  MÂRKÊT PLÂCÊ.";
+			String _text = "VÊNDÔRS CÔLLÊCT kaj DÎSTRÎBÛTÊ varoj en  MÂRKÊT PLÂCÊ.";
 		}
 		{
 			String _name = "ProfessionVendorDeath";
@@ -4271,7 +4271,7 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionDoctorTip";
-			String _text = "PHYSÎCÎÂNS HÊÂL SÎCKNÊSS kaj CÂN HÊLP ÎNCRÊÂSÊ HÊÂLTH da civitanoj.";
+			String _text = "PHYSÎCÎÂNS HÊÂL SÎCKNÊSS kaj CÂN HÊLP pligrandigo HÊÂLTH da civitanoj.";
 		}
 		{
 			String _name = "ProfessionDoctorDeath";
@@ -4283,7 +4283,7 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionPriestTip";
-			String _text = "CLÊRÎCS konservas CHÂPÊLS kaj BRÎNG HÂPPÎNÊSS TÔ civitanoj.";
+			String _text = "CLÊRÎCS konservas CHÂPÊLS kaj BRÎNG felico TÔ civitanoj.";
 		}
 		{
 			String _name = "ProfessionPriestDeath";
@@ -4497,67 +4497,67 @@ StringTable rawMaterial
 		}
 		{
 			String _name = "SeedApple";
-			String _text = "Pomo SÊÊDS";
+			String _text = "Pomo semoj";
 		}
 		{
 			String _name = "SeedCherry";
-			String _text = "CHÊRRY SÊÊDS";
+			String _text = "CHÊRRY semoj";
 		}
 		{
 			String _name = "SeedPear";
-			String _text = "Piro SÊÊDS";
+			String _text = "Piro semoj";
 		}
 		{
 			String _name = "SeedPeach";
-			String _text = "Persiko SÊÊDS";
+			String _text = "Persiko semoj";
 		}
 		{
 			String _name = "SeedPlum";
-			String _text = "Pruno SÊÊDS";
+			String _text = "Pruno semoj";
 		}
 		{
 			String _name = "SeedChestnut";
-			String _text = "CHÊSTNÛT SÊÊDS";
+			String _text = "CHÊSTNÛT semoj";
 		}
 		{
 			String _name = "SeedPecan";
-			String _text = "PÊCÂN SÊÊDS";
+			String _text = "PÊCÂN semoj";
 		}
 		{
 			String _name = "SeedWalnut";
-			String _text = "WÂLNÛT SÊÊDS";
+			String _text = "WÂLNÛT semoj";
 		}
 		{
 			String _name = "SeedCabbage";
-			String _text = "CÂBBÂGÊ SÊÊDS";
+			String _text = "CÂBBÂGÊ semoj";
 		}
 		{
 			String _name = "SeedCorn";
-			String _text = "CÔRN SÊÊDS";
+			String _text = "CÔRN semoj";
 		}
 		{
 			String _name = "SeedPotato";
-			String _text = "PÔTÂTÔ SÊÊDS";
+			String _text = "PÔTÂTÔ semoj";
 		}
 		{
 			String _name = "SeedSquash";
-			String _text = "SQÛÂSH SÊÊDS";
+			String _text = "SQÛÂSH semoj";
 		}
 		{
 			String _name = "SeedWheat";
-			String _text = "Tritiko SÊÊDS";
+			String _text = "Tritiko semoj";
 		}
 		{
 			String _name = "SeedBean";
-			String _text = "BÊÂN SÊÊDS";
+			String _text = "BÊÂN semoj";
 		}
 		{
 			String _name = "SeedPepper";
-			String _text = "PÊPPÊR SÊÊDS";
+			String _text = "PÊPPÊR semoj";
 		}
 		{
 			String _name = "SeedPumpkin";
-			String _text = "PÛMPKÎN SÊÊDS";
+			String _text = "PÛMPKÎN semoj";
 		}
 		{
 			String _name = "LeatherCoatRequire";
@@ -4667,7 +4667,7 @@ StringTable scenario
 		}
 		{
 			String _name = "TutorialGettingStartedDesc";
-			String _text = "LÊÂRN la BÂSÎCS da la ludo, ÎNCLÛDÎNG CÂMÊRÂ MÔVÊMÊNT, CÔNSTRÛCTÎNG BÂSÎC BÛÎLDÎNGS, ÂSSÎGNÎNG laboristoj TÔ JÔBS, kaj STÂRTÎNG  NÊW urbeto.";
+			String _text = "LÊÂRN la BÂSÎCS da la ludo, ÎNCLÛDÎNG CÂMÊRÂ MÔVÊMÊNT, CÔNSTRÛCTÎNG BÂSÎC BÛÎLDÎNGS, ÂSSÎGNÎNG laboristoj TÔ JÔBS, kaj STÂRTÎNG novaj urbeto.";
 		}
 		{
 			String _name = "TutorialSurvival";
@@ -4675,7 +4675,7 @@ StringTable scenario
 		}
 		{
 			String _name = "TutorialSurvivalDesc";
-			String _text = "LÊÂRN TÔ Konstru BÛÎLDÎNGS ke produktu varoj ke CÂN HÊLP ÎNCRÊÂSÊ CHÂNCÊS da SÛRVÎVÂL, SÛCH ÂS BLÂCKSMÎTHS, TÂÎLÔRS, kaj FÔRÊSTÊRS.";
+			String _text = "LÊÂRN TÔ Konstru BÛÎLDÎNGS ke produktu varoj ke CÂN HÊLP pligrandigo CHÂNCÊS da SÛRVÎVÂL, SÛCH ÂS BLÂCKSMÎTHS, TÂÎLÔRS, kaj FÔRÊSTÊRS.";
 		}
 		{
 			String _name = "TutorialFood";
@@ -4691,7 +4691,7 @@ StringTable scenario
 		}
 		{
 			String _name = "TutorialTradeDesc";
-			String _text = "LÊÂRN HÔW negoci PRÔDÛCÊD varoj dum NÊW CRÔP SÊÊDS, ÔRCHÂRD SÊÊDS, brutaro, FÔÔD, iloj, kaj ÔTHÊR RÊSÔÛRCÊS.";
+			String _text = "LÊÂRN HÔW negoci PRÔDÛCÊD varoj dum novaj CRÔP semoj, ÔRCHÂRD semoj, brutaro, FÔÔD, iloj, kaj ÔTHÊR RÊSÔÛRCÊS.";
 		}
 	]
 }
@@ -4803,7 +4803,7 @@ StringTable startConditions
 		}
 		{
 			String _name = "HardDesc";
-			String _text = " Malfacila ludo komencas kun FÔÛR familioj.  SMÂLL ÂMÔÛNT da CLÔTHÎNG, FÔÔD, FÎRÊWÔÔD, kaj iloj ÂRÊ PRÔVÎDÊD. Ne SÊÊDS dum FÂRMÎNG ÂRÊ ÂVÂÎLÂBLÊ.";
+			String _text = " Malfacila ludo komencas kun FÔÛR familioj.  SMÂLL ÂMÔÛNT da CLÔTHÎNG, FÔÔD, FÎRÊWÔÔD, kaj iloj ÂRÊ PRÔVÎDÊD. Ne semoj dum FÂRMÎNG ÂRÊ ÂVÂÎLÂBLÊ.";
 		}
 		{
 			String _name = "MediumName";
@@ -4811,7 +4811,7 @@ StringTable startConditions
 		}
 		{
 			String _name = "MediumDesc";
-			String _text = " MÊDÎÛM ludo komencas kun FÎVÊ familioj. CLÔTHÎNG, FÔÔD, FÎRÊWÔÔD, iloj, kaj CÔNSTRÛCTÎÔN MÂTÊRÎÂLS, ÂRÊ PRÔVÎDÊD.  STÔRÂGÊ BÂRN havas ÂLRÊÂDY BÊÊN BÛÎLT. SÔMÊ SÊÊDS dum FÎÊLDS kaj ÔRCHÂRDS ÂRÊ ÂVÂÎLÂBLÊ.";
+			String _text = " MÊDÎÛM ludo komencas kun FÎVÊ familioj. CLÔTHÎNG, FÔÔD, FÎRÊWÔÔD, iloj, kaj CÔNSTRÛCTÎÔN materialoj, ÂRÊ PRÔVÎDÊD.  STÔRÂGÊ BÂRN havas ÂLRÊÂDY BÊÊN BÛÎLT. SÔMÊ semoj dum FÎÊLDS kaj ÔRCHÂRDS ÂRÊ ÂVÂÎLÂBLÊ.";
 		}
 		{
 			String _name = "EasyName";
@@ -4819,7 +4819,7 @@ StringTable startConditions
 		}
 		{
 			String _name = "EasyDesc";
-			String _text = "Facila ludo komencas kun SÎX familioj.  LÂRGÊ ÂMÔÛNT da CLÔTHÎNG, FÔÔD, FÎRÊWÔÔD, konstrui MÂTÊRÎÂLS, kaj iloj ÂRÊ PRÔVÎDÊD. HÔMÊS kaj STÔRÂGÊ ÂRÊÂS HÂVÊ ÂLRÊÂDY BÊÊN BÛÎLT. SÊÊDS dum FÎÊLDS kaj ÔRCHÂRDS ÂRÊ ÂVÂÎLÂBLÊ ÂS WÊLL ÂS  HÊRD da brutaro.";
+			String _text = "Facila ludo komencas kun SÎX familioj.  LÂRGÊ ÂMÔÛNT da CLÔTHÎNG, FÔÔD, FÎRÊWÔÔD, konstrui materialoj, kaj iloj ÂRÊ PRÔVÎDÊD. HÔMÊS kaj STÔRÂGÊ ÂRÊÂS havas ÂLRÊÂDY BÊÊN BÛÎLT. semoj dum FÎÊLDS kaj ÔRCHÂRDS ÂRÊ ÂVÂÎLÂBLÊ ÂS WÊLL ÂS  HÊRD da brutaro.";
 		}
 	]
 }
@@ -4919,7 +4919,7 @@ StringTable toolBar
 		}
 		{
 			String _name = "ResourceTip";
-			String _text = "RÊSÔÛRCÊ PRÔDÛCTÎÔN.";
+			String _text = "Rimedo PRÔDÛCTÎÔN.";
 		}
 		{
 			String _name = "RemoveTip";
@@ -4939,7 +4939,7 @@ StringTable toolBar
 		}
 		{
 			String _name = "SpeedTip";
-			String _text = "CÛRRÊNT SPÊÊD de la SÎMÛLÂTÎÔN";
+			String _text = "nunatempa SPÊÊD de la SÎMÛLÂTÎÔN";
 		}
 		{
 			String _name = "SlowTip";
@@ -4959,7 +4959,7 @@ StringTable toolBar
 		}
 		{
 			String _name = "ToolTownHallTip";
-			String _text = "SHÔW ÎNFÔRMÂTÎÔN ÂVÂÎLÂBLÊ ÂT la urbeto HÂLL.  urbeto HÂLL MÛST BÊ BÛÎLT FÎRST.";
+			String _text = "SHÔW ÎNFÔRMÂTÎÔN ÂVÂÎLÂBLÊ en la urbeto HÂLL.  urbeto HÂLL MÛST BÊ BÛÎLT FÎRST.";
 		}
 		{
 			String _name = "CameraTip";

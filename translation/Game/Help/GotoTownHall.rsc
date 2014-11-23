@@ -12,7 +12,7 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIToolTownHall ^s TÔWN STÂTÎSTÎCS ^f1 ^n THÊ TÔWN STÂTÎSTÎCS TÔÔL ÎS ÛSÊD TÔ MÔVÊ THÊ CÛRRÊNT VÎÊWPÔÎNT TÔ THÊ ^abTÔWNHÂLL TÔWN HÂLL^ae kaj ÔPÊN ÎTS DÊTÂÎLS. ÛNTÎL  TÔWN HÂLL ÎS BÛÎLT, THÎS TÔÔL ÎS ÛNÂVÂÎLÂBLÊ. ^p THÎS CÂN BÊ ÛSÊFÛL TÔ ÎMMÊDÎÂTÊLY VÎÊW THÊ STÂTÎSTÎCS ÂVÂÎLÂBLÊ ÂT THÊ TÔWN HÂLL en  LÂRGÊ MÂP WÎTHÔÛT HÂVÎNG TÔ MÂNÛÂLLY MÔVÊ THÊ CÂMÊRÂ, kaj WÎTHÔÛT TÂKÎNG ÛP  ^abCÂMÊRÂ CÂMÊRÂ LÔCÂTÎÔN.^ae ";
+			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIToolTownHall ^s TÔWN STÂTÎSTÎCS ^f1 ^n la TÔWN STÂTÎSTÎCS TÔÔL ÎS ÛSÊD TÔ MÔVÊ la nunatempa VÎÊWPÔÎNT TÔ la ^abTÔWNHÂLL TÔWN HÂLL^ae kaj ÔPÊN ÎTS DÊTÂÎLS. ÛNTÎL  TÔWN HÂLL ÎS BÛÎLT, THÎS TÔÔL ÎS ÛNÂVÂÎLÂBLÊ. ^p THÎS CÂN BÊ ÛSÊFÛL TÔ ÎMMÊDÎÂTÊLY VÎÊW la STÂTÎSTÎCS ÂVÂÎLÂBLÊ en la TÔWN HÂLL en  LÂRGÊ MÂP WÎTHÔÛT HÂVÎNG TÔ MÂNÛÂLLY MÔVÊ la CÂMÊRÂ, kaj WÎTHÔÛT TÂKÎNG ÛP  ^abCÂMÊRÂ CÂMÊRÂ LÔCÂTÎÔN.^ae ";
 		}
 	]
 }

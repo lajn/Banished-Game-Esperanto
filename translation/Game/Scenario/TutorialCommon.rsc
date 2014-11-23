@@ -4,11 +4,11 @@ StringTable tutorialGeneral
 	[ 
 		{
 			String _name = "Or";
-			String _text = "ÔR";
+			String _text = "au";
 		}
 		{
 			String _name = "And";
-			String _text = "kaj";
+			String _text = "Kaj";
 		}
 	]
 }

@@ -1,0 +1,5 @@
+2_2014/11/23:
+
+/Game/Help/Tavern.rsc: kompleta
+/Dialog/StringTable.rsc: gramatikaj fiksoj (mortigata->mortigita)
+

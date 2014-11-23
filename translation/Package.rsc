@@ -1,10 +1,8 @@
 PackageFile translationExample
 {
-	String _name = "Translation Example";
-	String _author = "Shining Rock Software, LLC";
-	String _description = "This is an exampe mod from the Banished Toolkit. This mod changes the font from the default to Arial. It also modifies the default character set. All text strings
-		are made uppercase and vowels have accents over them. The
-		source data to this mod can be found in the mod kit at www.shiningrocksoftware.com/mods";
+	String _name = "Esperanta traduko";
+	String _author = "Lajn";
+	String _description = "Cxi estas mia esperanta traduko. Se vi trovas eraron, vizitu https://github.com/lajn/Banished-Game-Esperanto/issues (tinyurl.com/baneraro).";
 	String _icon = "icon.png";
 	String _preview = "preview.jpg";
 	int _userVersion = 1;
